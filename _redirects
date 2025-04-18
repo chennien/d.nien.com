@@ -1,0 +1,9 @@
+http://d.nien.com/* https://d.nien.com/:splat 301!
+
+/ https://go.nien.com/nien 200
+
+/wp-admin https://api.hearty.app/wp-admin 200
+/wp-login.php https://api.hearty.app/wp-admin 200
+
+/f/* /f/Nien.exe 302
+/* https://go.nien.com/nien 302
